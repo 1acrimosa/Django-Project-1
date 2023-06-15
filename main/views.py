@@ -8,3 +8,7 @@ def index(request):
 
 def about(request):
     return render(request, 'main/about.html')
+
+
+def why(request):
+    return render(request, 'main/why.html')
