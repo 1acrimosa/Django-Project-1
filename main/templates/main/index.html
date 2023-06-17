@@ -5,10 +5,14 @@
 {% endblock %}
 
 {% block main %}
-    {% for el in tasks %}
-        <div class="alert alert-warning mt-2"
-             <h3>{{ el.title }}</h3>
-            <p>{{ el.task }}</p>
-        </div>
-    {% endfor %}
+    {% if tasks %}
+        {% for el in tasks %}
+            <div class="alert alert-warning mt-2">
+                 <h3>{{ el.title }}</h3>
+                <p>{{ el.task }}</p>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>There is no products</p>
+    {% endif %}
 {% endblock %}
