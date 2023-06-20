@@ -1,9 +1,9 @@
 from django.shortcuts import render
-from .models import Task
+from .models import Category, Item
 
 
 def index(request):
-    tasks = Task.objects.all()
+    tasks = Category.objects.all()
     return render(request, 'main/index.html', {'title': 'Main page', 'tasks': tasks})
 
 
