@@ -5,8 +5,8 @@
 {% endblock %}
 
 {% block main %}
-    {% if tasks %}
-        {% for el in tasks %}
+    {% if name %}
+        {% for el in name %}
             <div class="alert alert-warning mt-2">
                  <h3>{{ el.title }}</h3>
                 <p>{{ el.task }}</p>
