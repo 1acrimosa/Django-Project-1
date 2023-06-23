@@ -6,6 +6,7 @@
 
 {% block main %}
     {% if items %}
+        <div class="grid grid-cols-3 gap-3">
         {% for item in items %}
                 <div>
                     <a href="{% url 'item:detail' item.id %}">
@@ -20,6 +21,7 @@
                     </a>
                 </div>
             {% endfor %}
+        </div>
     {% else %}
         <p>There is no products</p>
     {% endif %}
