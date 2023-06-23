@@ -12,7 +12,7 @@
 
     <body>
         <nav class="py-6 px-6 flex justify-between items-center border-b border-gray-200">
-            <a href="/" class="text-xl font-semibold">Market</a>
+            <a href="/" class="text-xl font-semibold">My Market</a>
 
             <div class="space-x-6">
                 <a href="#" class="text-lg font-semibold hover:text-gray-500">img</a>
@@ -43,8 +43,8 @@
                 <h3 class="mb-5 font-semibold text-gray-400">Menu</h3>
 
                 <ul class="space-y-2">
-                    <li><a href="#" class="text-lg text-teal-500 hover:text-teal-700">About</a></li>
-                    <li><a href="#" class="text-lg text-teal-500 hover:text-teal-700">Why I create this site?</a></li>
+                    <li><a href="{% url 'core:about' %}" class="text-lg text-teal-500 hover:text-teal-700">About</a></li>
+                    <li><a href="{% url 'core:why' %}" class="text-lg text-teal-500 hover:text-teal-700">Why I create this site?</a></li>
                 </ul>
             </div>
         </footer>
