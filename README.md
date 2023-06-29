@@ -27,9 +27,4 @@ To contribute:
 6. Submit a pull request to the main repository.
 
 ---
-
-## Screenshots
-
-![Screenshots](item1.png)
-![Description](Desktop/Screenshots/item2.png)
   
