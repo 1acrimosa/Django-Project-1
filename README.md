@@ -1,4 +1,4 @@
-# Online market created by django
+# Online market created by Django
 
 This is an online market application built using Django, a powerful web framework for Python. The application allows users to buy and sell products online in a secure and user-friendly manner.
 
@@ -30,6 +30,6 @@ To contribute:
 
 ## Screenshots
 
-![Screenshot](item1.png)
-![Screenshot](item2.png)
+![Screenshot](Desktop/item1.png)
+![Screenshot](Desktop/item2.png)
   
