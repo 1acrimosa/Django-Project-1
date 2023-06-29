@@ -30,6 +30,6 @@ To contribute:
 
 ## Screenshots
 
-![Description](Desktop/Screenshots/item1.png)
+![Screenshots](item1.png)
 ![Description](Desktop/Screenshots/item2.png)
   
