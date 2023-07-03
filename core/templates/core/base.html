@@ -12,6 +12,7 @@
 
     <body>
         <nav class="py-6 px-6 flex justify-between items-center border-b border-gray-200">
+
             <a href="/" class="text-xl font-semibold">Market</a>
 
             <div class="space-x-4">
@@ -29,8 +30,15 @@
         </nav>
 
         <div class="px-6 py-6">
+
+            <style>
+                h1 { font-family: Geneva, Arial, Helvetica, sans-serif;}
+                p { font-family: Georgia, 'Times New Roman', Times, serif;}
+            </style>
+
             {% block main %}
             {% endblock %}
+        
         </div>
 
         <footer class="py-6 px-6 flex justify-between bg-black">
