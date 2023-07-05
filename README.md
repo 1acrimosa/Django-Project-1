@@ -30,7 +30,7 @@ To contribute:
 
 ## Screenshots
 
-![Screenshots](item1.png)
-![Screenshots](item2.png)
+![Screenshots](media/item1.png)
+![Screenshots](media/item2.png)
 
 ---
