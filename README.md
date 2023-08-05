@@ -6,10 +6,10 @@ This is an online market application built using Django, a powerful web framewor
 
 ## Features
 
-• User registration and authentication: Users can sign up, log in, and manage their accounts.
-• Product listings: Users can create, update, and delete their product listings.
-• Admin dashboard: An admin dashboard for site administrators to manage users, products, orders, and other site content.
-• Responsive design: The application is designed to be responsive and accessible on various devices.
+• User registration and authentication: Users can sign up, log in, and manage their accounts. <br />
+• Product listings: Users can create, update, and delete their product listings. <br />
+• Admin dashboard: An admin dashboard for site administrators to manage users, products, orders, and other site content. <br />
+• Responsive design: The application is designed to be responsive and accessible on various devices. <br />
 
 ---
 
