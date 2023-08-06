@@ -31,6 +31,6 @@ To contribute:
 ## Screenshots
 
 <img src='media/item1.png' height='280' width='490'>
-<img src='media/item2.png' height='500' width='800'>
+<img src='media/item2.png' height='280' width='490'>
 
 ---
