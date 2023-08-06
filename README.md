@@ -30,7 +30,7 @@ To contribute:
 
 ## Screenshots
 
-![Screenshots](media/item1.png)
-![Screenshots](media/item2.png)
+![Screenshots](media/item1.png = 400 * 400)
+![Screenshots](media/item2.png = 400 * 400)
 
 ---
